@@ -4,7 +4,7 @@ title:  My Resume
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Education:I graduated from Cchongqing university of education, majoring in English.
+Education:I graduated from Cchongqing university of education majoring in English
 ```javascript
 const Razorpay = require('razorpay');
 
