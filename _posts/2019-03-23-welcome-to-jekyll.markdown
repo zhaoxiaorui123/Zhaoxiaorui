@@ -4,7 +4,14 @@ title:  My Resume
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Education:I graduated from Cchongqing university of education majoring in English
+Education:I graduated from Cchongqing university of education, majoring in English.
+
+Experance:In the summer vacation of 2018, I went to Thailand to be a volunteer teacher of Chinese. Worked as a teaching assistant in Bohan Education.
+
+Skill:Proficient in office and English.
+
+Self evaluation:I am cheerful, warm and generous,good at communicating with others, have certain organization and management ability.
+
 ```javascript
 const Razorpay = require('razorpay');
 
