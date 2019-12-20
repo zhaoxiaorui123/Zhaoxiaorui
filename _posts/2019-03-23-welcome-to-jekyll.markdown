@@ -4,7 +4,7 @@ title:  My Resume
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-INFORMATION:Residence in Chongqing Brirhday,1998.5.20 e-mail:115122414291@qq.com
+INFORMATION:Residence in Chongqing.Brirhday,1998.5.20.e-mail:115122414291@qq.com.
 EDUCATION:I graduated from Cchongqing university of education, majoring in English.
 EXPERANCE:In the summer vacation of 2018, I went to Thailand to be a volunteer teacher of Chinese. Worked as a teaching assistant in Bohan Education.
 SKILL:Proficient in office and English.
