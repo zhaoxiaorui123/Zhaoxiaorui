@@ -1,4 +1,4 @@
-title: winner
+title: Zhao xiaorui
 author: Rae
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
-# refer to https://zhaoxiaorui123.github.io/winner/ if you want to customize this
+# refer to https://zhaoxiaorui123.github.io/Zhaoxiaorui/ if you want to customize this
 sass:
   sass_dir: _sass
 plainwhite:
